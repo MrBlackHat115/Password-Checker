@@ -1,2 +1,12 @@
 # Password-Checker
-A Python-based password security checker that uses the Have I Been Pwned Passwords API to determine whether passwords have appeared in known data breaches
+- After completing the ZTM project, I built a Python-based password security checker that uses the Have I Been Pwned Passwords API to determine whether passwords have appeared in known data breaches.
+- The project helped me practice:
+  - Python functions and modules
+  - API requests with requests
+  - SHA-1 hashing with hashlib
+  - K-anonymity for securely querying the API
+  - Command-line arguments
+  - Secure password input with getpass
+  - Error handling
+  - Processing API responses
+  - Protecting passwords from being displayed in plaintext
